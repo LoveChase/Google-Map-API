@@ -1,0 +1,57 @@
+body{
+    background: green;
+}
+
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#map{
+    width: 100%; 
+    height: 650px;
+    margin: 0 auto;
+    border-radius: 25px;
+    border: 10px solid Blue;
+}
+
+#map-canvas {
+display: none;
+position: absolute;
+margin: 0 auto;
+width: 80%;
+height: 100%;
+padding: 10px;
+background-color: grey;
+}
+
+#show {
+    width: 40%;
+    height: 30px;
+    padding: 10px;
+    background-color: blue;
+    float: left;
+    color: white;
+    display:inline-block;
+    border-radius: 10px;
+    padding: 2%;
+    padding-bottom: 4%;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+#clear {
+    width: 40%;
+    height: 30px;
+    padding: 10px;
+    background-color: red;
+    float: left;
+    color: white;
+    display:inline-block;
+    border-radius: 10px;
+    padding: 2%;
+    padding-bottom: 4%;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
