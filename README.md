@@ -10,4 +10,4 @@
 * SCSS
 * JavaScript
 
-* 🕹 Demo: <a href="https://lovechase.github.io/Google-Map-API/" target="_blank">Estimator</a>
+* 🕹 Demo: <a href="https://lovechase.github.io/Google-Map-API/" target="_blank">Google Map Demo</a>
